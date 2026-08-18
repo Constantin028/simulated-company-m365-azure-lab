@@ -1,0 +1,23 @@
+# Secrets
+.env
+*.key
+*.pem
+*.pfx
+*.p12
+*.secret
+
+# Azure
+.azure/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Editors
+.vscode/
